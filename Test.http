@@ -1,0 +1,8 @@
+GET http://localhost:8080/coffees/c4f49268-5040-4f28-9b24-3417930b7f85
+Accept: application/json
+
+###
+GET http://localhost:8080/coffees
+Accept: application/json
+
+###
